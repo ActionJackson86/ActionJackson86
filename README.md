@@ -1,4 +1,4 @@
-[![Jackson's Github Banner](./assets/banner.png)](https://nonactionjackson.com)  
+# [![Jackson's Github Banner](./assets/banner.png)](https://nonactionjackson.com)  
 ![Visits Badge](https://badges.pufler.dev/visits/actionjackson86/actionjackson86)
 ![Twitter Badge](https://img.shields.io/twitter/follow/act10n_jacks0n?label=Follow&logo=Twitter&style=flat)
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedinlogoColor=white&color=0D76A8)(https://www.linkedin.com/in/nonactionjackson/)
