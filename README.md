@@ -5,7 +5,7 @@
 
 ## Hi 👋
 
-I'm Jackson, currently working as a backend web developer in the fitness space. I have previous experience with machine learning, specifically object detection and tracking, as well as some natural language processing. I'm also consistenly tinkering on side projects and I love learning.
+I'm Jackson, currently working as a Cybersecurity Specialist. I have previous experience with web app development, machine learning, specifically object detection and tracking, as well as some natural language processing. I'm also consistenly tinkering on side projects and I love learning.
 
 <a href="https://github.com/actionjackson86">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actionjackson86&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
